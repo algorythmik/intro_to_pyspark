@@ -1,2 +1,2 @@
-# intro_to_pyspark
-Introduction to pysaprk
+# Introduction to pyspark
+Starting from udemy course and may add new things later.
